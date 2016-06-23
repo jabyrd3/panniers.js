@@ -1,0 +1,2222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filesys",
+				"fileSystemTypeKey"
+			],
+			[
+				"workps",
+				"workspaceID"
+			],
+			[
+				"collap",
+				"collapsedWidth"
+			],
+			[
+				"projec",
+				"projectId"
+			],
+			[
+				"workflow",
+				"workflowDashboard"
+			],
+			[
+				"worksp",
+				"workspaceID"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"workap",
+				"workspaceID"
+			],
+			[
+				"workspac",
+				"workspaceID"
+			],
+			[
+				"workspace",
+				"workspace"
+			],
+			[
+				"works",
+				"workspace"
+			],
+			[
+				"paddin",
+				"paddingLeft"
+			],
+			[
+				"fold",
+				"folderPath"
+			],
+			[
+				"cycl",
+				"cycleUser"
+			],
+			[
+				"work",
+				"workspaceID"
+			],
+			[
+				"unsu",
+				"unsubWatchers"
+			],
+			[
+				"shri",
+				"shrinkCoordinator"
+			],
+			[
+				"watch",
+				"watcherCache"
+			],
+			[
+				"animate",
+				"animateWidth"
+			],
+			[
+				"scroll",
+				"scrollwithManager"
+			],
+			[
+				"min",
+				"minOffset"
+			],
+			[
+				"sh",
+				"shrinkCoordinator"
+			],
+			[
+				"shrin",
+				"shrinkage"
+			],
+			[
+				"shr",
+				"shrinkage"
+			],
+			[
+				"shrink",
+				"shrinkCoordinator"
+			],
+			[
+				"blur",
+				"blurView"
+			],
+			[
+				"shir",
+				"shrinkCoordinator"
+			],
+			[
+				"controll",
+				"controllerAs"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"libraryview",
+				"libraryViewController"
+			],
+			[
+				"backgroundc-",
+				"background-color"
+			],
+			[
+				"workspa",
+				"workspaceTypes"
+			],
+			[
+				"workspacetyp",
+				"workspaceTypes"
+			],
+			[
+				"wo",
+				"workspaceType"
+			],
+			[
+				"recycling",
+				"recyclingbin"
+			],
+			[
+				"updatey",
+				"updateType"
+			],
+			[
+				"recyc",
+				"recycle"
+			],
+			[
+				"previous",
+				"previousParentWorkspaceID"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"update",
+				"updateTypes"
+			],
+			[
+				"worskpac",
+				"workspaceID"
+			],
+			[
+				"paren",
+				"parentWorkspaceID"
+			],
+			[
+				"worsk",
+				"workspaceID"
+			],
+			[
+				"item",
+				"fileSystemItems"
+			],
+			[
+				"recyclin",
+				"recyclingbin"
+			],
+			[
+				"filesystem",
+				"fileSystemItems"
+			],
+			[
+				"fileSystemItem",
+				"fileSystemItems"
+			],
+			[
+				"getwor",
+				"getNodeByWorkspaceID"
+			],
+			[
+				"worksape",
+				"workspaceID"
+			],
+			[
+				"getwo",
+				"getNodeByWorkspaceID"
+			],
+			[
+				"parent",
+				"parentID"
+			],
+			[
+				"f",
+				"fileSystemItems"
+			],
+			[
+				"filesy",
+				"fileSystemService"
+			],
+			[
+				"parentwo",
+				"parentWorkspaceID"
+			],
+			[
+				"has",
+				"hashGen"
+			],
+			[
+				"restore",
+				"restore-modal"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"workpac",
+				"workspaceID"
+			],
+			[
+				"worksap",
+				"workspaceID"
+			],
+			[
+				"wp",
+				"workspaceIDs"
+			],
+			[
+				"libar",
+				"libraryFiles"
+			],
+			[
+				"drop",
+				"dropFunc"
+			],
+			[
+				"getRot",
+				"getRootFolders"
+			],
+			[
+				"activ",
+				"activeRoot"
+			],
+			[
+				"acti",
+				"activeRoot"
+			],
+			[
+				"workp",
+				"workspaceID"
+			],
+			[
+				"fake",
+				"fakeWorkspace"
+			],
+			[
+				"fil",
+				"fileSystemService"
+			],
+			[
+				"library",
+				"libraryFiles"
+			],
+			[
+				"recy",
+				"Recycling"
+			],
+			[
+				"l",
+				"loading"
+			],
+			[
+				"wokr",
+				"workspaceID"
+			],
+			[
+				"tare",
+				"targetID"
+			],
+			[
+				"split",
+				"splitPath"
+			],
+			[
+				"navba",
+				"navbar-text"
+			],
+			[
+				"lgo",
+				"logotype"
+			],
+			[
+				"grava",
+				"gravatarNotFound"
+			],
+			[
+				"gravat",
+				"gravatarUrl"
+			],
+			[
+				"app",
+				"appJS"
+			],
+			[
+				"scro",
+				"scrollwithManager"
+			],
+			[
+				"on",
+				"onscroll"
+			],
+			[
+				"due",
+				"dueDate"
+			],
+			[
+				"wor",
+				"workspaceID"
+			],
+			[
+				"w",
+				"workspaceID"
+			],
+			[
+				"create",
+				"create-workspace"
+			],
+			[
+				"worksapc",
+				"workspaceId"
+			],
+			[
+				"commen",
+				"commentWidth"
+			],
+			[
+				"frameworks",
+				"frameworksJS"
+			],
+			[
+				"organ",
+				"organizationID"
+			],
+			[
+				"active",
+				"activeOrg"
+			],
+			[
+				"nuk",
+				"nuke"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"organization",
+				"organizationID"
+			],
+			[
+				"se",
+				"segment (?)"
+			],
+			[
+				"focu",
+				"focusForm"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"don",
+				"dontlikethis"
+			],
+			[
+				"preview",
+				"previewFiles"
+			],
+			[
+				"curretn",
+				"currentUserID"
+			],
+			[
+				"query",
+				"queryString〔variable〕"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"list-stye",
+				"list-style-type"
+			],
+			[
+				"curret",
+				"currentIndex"
+			],
+			[
+				"show",
+				"showSubmitReminder"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"state",
+				"statetype"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"creaet",
+				"createdBy"
+			],
+			[
+				"wofk",
+				"workflowFileID"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"resul",
+				"resultStack"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"compon",
+				"component〔variable〕"
+			],
+			[
+				"exe",
+				"expectValues(200"
+			],
+			[
+				"exp",
+				"expectValues(200"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"light",
+				"lightboxselect"
+			],
+			[
+				"componen",
+				"componentController〔variable〕"
+			],
+			[
+				"lightbox",
+				"lightboxSelectedFunc"
+			],
+			[
+				"int",
+				"internalExample"
+			],
+			[
+				"progres",
+				"progressBar"
+			],
+			[
+				"viewrating",
+				"viewRatingSegmentController"
+			],
+			[
+				"workf",
+				"workflowID"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 339.0,
+		"last_filter": "file mo",
+		"selected_items":
+		[
+			[
+				"file mo",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git checkout new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"git chekcout",
+				"Git: Checkout"
+			],
+			[
+				"git checkout new branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git checkout new ",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git checkout new b",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"git checkotu branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git quick log currn",
+				"Git: Quick Log Current File"
+			],
+			[
+				"move to right",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"git diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"ixio",
+				"ix.io: post"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"mov e to lef",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"move to left",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"pane bl",
+				"Origami: Create Pane Below"
+			],
+			[
+				"git quick log curr",
+				"Git: Quick Log Current File"
+			],
+			[
+				"ixio po",
+				"ix.io: post"
+			],
+			[
+				"git puhs",
+				"Git: Push"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout"
+			],
+			[
+				"git checkou new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git quick log cur",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git checkuot new ",
+				"Git: Checkout New Branch"
+			],
+			[
+				"ixo",
+				"ix.io: post"
+			],
+			[
+				"git log ",
+				"Git: Quick Log Current File"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"gitl og",
+				"Git: Log"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"mv",
+				"File: Move"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git quick log",
+				"Git: Quick Log"
+			],
+			[
+				"git logh",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"git merge",
+				"Git: Merge"
+			],
+			[
+				"git checkou",
+				"Git: Checkout"
+			],
+			[
+				"dif",
+				"Git: Diff"
+			],
+			[
+				"move to r",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"orgami right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"origami dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"quick log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"create pane right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"git quick log current",
+				"Git: Quick Log Current File"
+			],
+			[
+				"quick log curr",
+				"Git: Quick Log Current File"
+			],
+			[
+				"quick log cur",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git istatus",
+				"Git: Quick Status"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"destroy cru",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"git log curr",
+				"Git: Quick Log Current File"
+			],
+			[
+				"checkout ",
+				"Git: Checkout"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"gitp ush",
+				"Git: Push"
+			],
+			[
+				"post",
+				"ix.io: post"
+			],
+			[
+				"gitp ull",
+				"Git: Pull"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"ix",
+				"ix.io: post"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"origami create right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"file new conte",
+				"File: New File Relative to Current View"
+			],
+			[
+				"origami de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"git checkuo new branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"htmlpret",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enasble",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"checkout new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pastes",
+				"ix.io: pastes"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"git mer",
+				"Git: Merge"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"reanme",
+				"File: Rename"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"delete ",
+				"File: Delete"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"destro",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"file de",
+				"File: Delete"
+			],
+			[
+				"destory",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"move tleft",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"move to ",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"rname",
+				"File: Rename"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"create pane ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"dest cur",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"destroy pa",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"orgiami pane right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"git checko new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git quick log c",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git quic",
+				"Git: Quick Log"
+			],
+			[
+				"git quicklog",
+				"Git: Quick Log"
+			],
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git checkout bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git bal",
+				"Git: Blame"
+			],
+			[
+				"orgami dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 481.0,
+		"history":
+		[
+			"reload_plugin",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Users/admin.jbyrd/Desktop/panniers",
+		"/Users/admin.jbyrd/Desktop/panniers/angular",
+		"/Users/admin.jbyrd/Desktop/panniers/native"
+	],
+	"file_history":
+	[
+		"/Users/admin.jbyrd/repos/soho/web_client/bower.json",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/library.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/index.module.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/templates/mainHeader.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/header.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/libraryView.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/templates/thumbList.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/services/fileSystemService.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/realtimefilesystem.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/userCredentialManager.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/thumbList.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/thumb-list.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/services/tree.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/gulpfile.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/index.module.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/app.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/apiService.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/file-list.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/templates/libraryView.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/templates/controlBar.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/fileMonitorService.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/popupFactory.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/templates/fileList.html",
+		"/Users/admin.jbyrd/AK-fixed.pdf",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/typeSwitcher.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/thumbnailGrid.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/dragSlide.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/previewFiles.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/restoreModal.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/constants.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/controlBar.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/components/comments.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/comments.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/socketService.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/app.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/components/project-context.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/projectContext.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/templates/workflowDashboard.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/cards/uploadCard.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/scrollwith.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/uploads/templates/uploadDropZone.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/lab/rte.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/fileList.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/workflowDashboard.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/thumbnailGrid.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/deleteItem.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/templates/workspaceList.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/workspaceList.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/templates/projectDashboard.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/projectDashboard.js",
+		"/Users/admin.jbyrd/repos/soho/api/Core/API.Host/middleware/requestContext.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/createWorkspace.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/deadline.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/teamList.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/teamPicker.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/createProject.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/segSubmit.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/controllers/viewWorkspaceSegmentController.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/labelRatings.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/users/components/verifyOrganization.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/uploads/controllers/uploadFilesController.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/settings/components/addPeople.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/createFolder.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/addFolder.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/treeView.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/browserDragEnterExit.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/segmentFiles.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/constants.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/users/components/login-view.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/templates/workspaceView.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/dashboards.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/rating-view.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/components/control-bar.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/settings-layout.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/dropDown.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/dropdown.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/header.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/action-dropdown.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/var-override.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/users/components/user-info.js",
+		"/Users/admin.jbyrd/repos/soho/api/package.json",
+		"/Users/admin.jbyrd/repos/soho/web_client/package.json",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/domUtils.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/soho-variables.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/components/tree-view.less",
+		"/Users/admin.jbyrd/Dropbox/vps_impt/docker-stuff/docker-commands",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/rating.less",
+		"/Users/admin.jbyrd/Library/Application Support/Sublime Text 3/Packages/User/template-string.sublime-snilppet",
+		"/Users/admin.jbyrd/Downloads/Constructed EDI - sample 14 v3.csv",
+		"/Users/admin.jbyrd/Downloads/Constructed EDI - sample 11 v3.csv",
+		"/Users/admin.jbyrd/Library/Application Support/Sublime Text 3/Packages/User/debugger.sublime-snippet",
+		"/Users/admin.jbyrd/Library/Application Support/Sublime Text 3/Packages/User/console-log.sublime-snippet",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/directives/dragListen.js",
+		"/Users/admin.jbyrd/Desktop/lab_results",
+		"/Users/admin.jbyrd/repos/soho/web_client/lab/rte_alt_implementation.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/lab/rte_naive.js",
+		"/Users/admin.jbyrd/rte/timer.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/lab/harnesses/ng-harness.js",
+		"/Users/admin.jbyrd/rte/ng-harness.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/lab/socketharness.js",
+		"/Users/admin.jbyrd/rte/socketmock.js",
+		"/Users/admin.jbyrd/rte/rte.js",
+		"/Users/admin.jbyrd/rte_perf.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/renameItem.js",
+		"/Users/admin.jbyrd/repos/soho/api/Services/FileSystem/Worker/FileSystemService.csproj",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/uploads/components/uploadDropZone.js",
+		"/Users/admin.jbyrd/repos/soho/api/Core/Worker.Messages/Workspaces/Enums/WorkspaceFileUpdateType.cs",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/components/restoreItem.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/svg/ratings.svg",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/soho-buttons.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/components/restore-modal.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/library/templates/createFolder.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/alerts.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/services/rtfs.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/svg/restore-folder.svg",
+		"/Users/admin.jbyrd/repos/soho/api/gulpfile.js",
+		"/Users/admin.jbyrd/repos/soho/api/Tools/Database/syncLocalhost.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/templates/fileProgressMonitor.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/filters.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/directives/dropListener.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/assets/less/uploads.less",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/segmentsList.js",
+		"/Users/admin.jbyrd/repos/soho/api/Services/Uploads/API/controllers/uploadController.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/directives/nameworkspace.html",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/directives/nameworkspace.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/modules/workspace/components/cards/nameCard.js",
+		"/Users/admin.jbyrd/repos/soho/web_client/client/components/progress-button.js",
+		"/Users/admin.jbyrd/repos/soho/api/Services/UIEventPublisher/API/helpers/socketHelper.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"client/*",
+			"client/*.less",
+			"client/*.",
+			"client/*.js",
+			"client/*",
+			"client/*.js",
+			"client/*.less",
+			"client/*",
+			"client/*.less",
+			"client/*.js",
+			"client/*.less",
+			"client/*.html",
+			"client/*.js",
+			"client/*.less",
+			"client/*",
+			"client/*.less",
+			"client/*.html",
+			"client/*.js",
+			"client/*.html",
+			"client/*.js",
+			"client/*.less",
+			"client/*.js",
+			"client/*.less",
+			"client/*",
+			"client/*.js",
+			"client/*.html",
+			"client/*.js",
+			"client/*.html",
+			"client/*.js",
+			"api/*",
+			"api/*.js",
+			"web_client/*.js",
+			"web_client/*.html",
+			"web_client/*.js",
+			"web_client/*.jas",
+			"web_client/*",
+			"web_client/*.js",
+			"web_client/*",
+			"",
+			"web_client/*",
+			"api/*",
+			"web_client/*",
+			"api/*",
+			"web_client/*",
+			"api/*",
+			"web_client/*",
+			"web_client/",
+			"web_client/client/*",
+			"web_client/*",
+			"",
+			"web_client/*",
+			"infrastructure/*",
+			"web_client/*",
+			"",
+			"web_client/*",
+			"./web_client",
+			"web_client",
+			"",
+			"filePreviewModalController",
+			"",
+			"web_client",
+			"./web_client",
+			"web_client",
+			"",
+			"web_client/*",
+			"web_client",
+			"",
+			"web_client/",
+			"web_client/tests",
+			"web_client/",
+			"web_client/tests/*",
+			"web_client/client/*",
+			"web_client",
+			"web_client/test",
+			"web_client/test/*",
+			"web_client/*",
+			"",
+			"signup",
+			"web_client/*",
+			"web_client",
+			"",
+			"web_client/",
+			"web_client/*.html",
+			"web_client/*",
+			"web_client",
+			"",
+			"client/",
+			"web_client",
+			"*",
+			"",
+			"client/**/*.js",
+			"client/**/*",
+			"client/**/*.js",
+			"client/**/*",
+			"client/**/*.js",
+			"client/modules/**/*.js",
+			"client/controllers/**/*.js",
+			"",
+			"client/**/*.html",
+			"client/**/*.*",
+			"client/**/*.html",
+			"client/**/*.js",
+			"",
+			"client/**/*.*",
+			"client/**/*.html",
+			"client/**/*.less",
+			"/client/**/*.less",
+			"/client/**/*.css",
+			"client/**/*.css",
+			"client",
+			"",
+			"bower_components/photoswipe/**/*.js",
+			"*.js",
+			"**/svg.less",
+			"",
+			"**/approvalGalleryService.spec.js",
+			"",
+			"**/client/**",
+			"",
+			"**/asset.js",
+			"bower_components/*",
+			"-bower_components/*,<open folders>",
+			"-bower_components",
+			"!bower_components",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EnvironmentConfig",
+			"environmentConfig",
+			"rootScope",
+			"experimental]",
+			"debugger",
+			"endpointfunction",
+			"orgs",
+			"apiService.",
+			"register",
+			"apiService.util",
+			"apiService.orgs",
+			"orgs",
+			"apiservice.orgs",
+			"jab goto",
+			"gotofolder =",
+			"binding",
+			"state.go",
+			"selectFolder",
+			"initialize",
+			"initfilesystem =",
+			"gotofolder",
+			"root.library.list",
+			"$rootscope.on",
+			"reload",
+			"folderpath",
+			"gotofolder",
+			"state.",
+			"meta =",
+			"deletefile",
+			"meta-",
+			"state.go",
+			"libraryview",
+			"folderpath",
+			"function",
+			"gotofolder",
+			":p",
+			"state.go",
+			":\n",
+			"rename",
+			"item",
+			"recyclingbin.list",
+			"list",
+			"click",
+			"recyclingbin.list",
+			"tostring",
+			"resizehandler",
+			"recyclingbin",
+			"end",
+			"config",
+			"deletefile",
+			"offset = ",
+			"this.offset ===",
+			"render",
+			"render(",
+			"resizehandler",
+			"eip",
+			"fresh",
+			"trigger",
+			"tree.destroy",
+			"setviewtype",
+			"viewtype",
+			"thumb-list",
+			"library",
+			"console.log",
+			"minoffset =",
+			"collapsedWidth",
+			"collapsedwidth",
+			"maxwidth",
+			"minoffset",
+			"minoffset =",
+			"ctrl.",
+			"ctrl.nnn",
+			"ctrl.",
+			"ctrl.defaultOffset *",
+			"ctrl.defaul",
+			"-20",
+			"DRAG FILES",
+			"DRAG FROM ",
+			"FROM YOUR COMPUTER",
+			"FROM YOUR",
+			"project-context",
+			"root",
+			"console.log('",
+			"buildfilesystem",
+			"called",
+			"files(",
+			"/list",
+			"gotofolder",
+			"goto",
+			"this.recyclingbin",
+			"pid ||",
+			"delete-item",
+			"delete-tiem",
+			"delete-item",
+			"console.log",
+			"rte.sub",
+			"org-id",
+			"orgID",
+			"$stateParams.orgID",
+			"$state.params.orgID",
+			"file-count",
+			"getFiles",
+			"files",
+			"jab pid",
+			"library",
+			"projectID",
+			"folderpath",
+			"doinitialization(",
+			"filesystemtypes",
+			"typeKey",
+			"project",
+			"dashboard",
+			"workflowdas",
+			"root.workflowDashboard",
+			"projectDashboard",
+			"root.workflowDashboard",
+			"workflowdash",
+			"workflowDashboard",
+			"project-dashboard",
+			"console.log",
+			"console",
+			"console.log",
+			", true",
+			"console.log",
+			"realtime",
+			"doInitialization(",
+			"folder moved tree",
+			"tree.destroy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//console.log",
+			"based",
+			"apiService.segments(",
+			"root.viewWorkflow",
+			"root.projectDashboard",
+			"'root.projectDashboard'",
+			"'workspace/",
+			"res",
+			"workspaceID",
+			"application.workspace",
+			"root.workspaceFiles",
+			"root.viewWorkspace",
+			"root.createWorkspace",
+			"FilePreviewModalController",
+			"'client/bower_components",
+			"'client/bower_componetnts",
+			"%23",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 110.0
+	},
+	"output.git-commit":
+	{
+		"height": 116.0
+	},
+	"output.git-fetch":
+	{
+		"height": 110.0
+	},
+	"output.git-merge":
+	{
+		"height": 110.0
+	},
+	"output.git-pull":
+	{
+		"height": 110.0
+	},
+	"output.git-push":
+	{
+		"height": 116.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "panniers.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"web_client/client/app.js"
+			],
+			[
+				"apiser",
+				"web_client/client/services/apiService.js"
+			],
+			[
+				"user",
+				"web_client/client/services/userCredentialManager.js"
+			],
+			[
+				"apiservice",
+				"web_client/client/services/apiService.js"
+			],
+			[
+				"clientgulpfile",
+				"web_client/gulpfile.js"
+			],
+			[
+				"sublimproject",
+				"soho.sublime-project"
+			],
+			[
+				"bower.json",
+				"web_client/bower.json"
+			],
+			[
+				"workspaceindex.module",
+				"web_client/client/modules/workspace/index.module.js"
+			],
+			[
+				"library.less",
+				"web_client/client/assets/less/library.less"
+			],
+			[
+				"agenavigator.js",
+				"web_client/client/modules/library/components/pageNavigator.js"
+			],
+			[
+				"pagenavi",
+				"web_client/client/modules/library/components/pageNavigator.js"
+			],
+			[
+				"libraryview.html",
+				"web_client/client/modules/library/templates/libraryView.html"
+			],
+			[
+				"libraryview.js",
+				"web_client/client/modules/library/components/libraryView.js"
+			],
+			[
+				"filelist",
+				"web_client/client/modules/library/templates/fileList.html"
+			],
+			[
+				"thumblist",
+				"web_client/client/modules/library/templates/thumbList.html"
+			],
+			[
+				"filesystemserivce",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"tree",
+				"web_client/client/modules/library/services/tree.js"
+			],
+			[
+				"wober.json",
+				"web_client/bower.json"
+			],
+			[
+				"index.module",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"filesystemservice",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"header",
+				"web_client/client/components/header.js"
+			],
+			[
+				"constants",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"typesiwtcher",
+				"web_client/client/modules/library/components/typeSwitcher.js"
+			],
+			[
+				"gulpfile",
+				"web_client/gulpfile.js"
+			],
+			[
+				"tree.js",
+				"web_client/client/modules/library/services/tree.js"
+			],
+			[
+				"realtimefilesystem",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"libraryless",
+				"web_client/client/assets/less/library.less"
+			],
+			[
+				"index.module.js",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"libraryvies.js",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"credential",
+				"web_client/client/services/userCredentialManager.js"
+			],
+			[
+				"apiserv",
+				"web_client/client/services/apiService.js"
+			],
+			[
+				"controlbar.html",
+				"web_client/client/modules/library/templates/controlBar.html"
+			],
+			[
+				"libraryview.",
+				"web_client/client/modules/library/templates/libraryView.html"
+			],
+			[
+				"filelist.less",
+				"web_client/client/assets/less/file-list.less"
+			],
+			[
+				"filelist.html",
+				"web_client/client/modules/library/templates/fileList.html"
+			],
+			[
+				"thumblist.html",
+				"web_client/client/modules/library/templates/thumbList.html"
+			],
+			[
+				"thumb-list",
+				"web_client/client/assets/less/thumb-list.less"
+			],
+			[
+				"thumb",
+				"web_client/client/directives/thumbnailGrid.js"
+			],
+			[
+				"constans",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"typeswi",
+				"web_client/client/modules/library/components/typeSwitcher.js"
+			],
+			[
+				"index.md",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"typesiw",
+				"web_client/client/modules/library/components/typeSwitcher.js"
+			],
+			[
+				"restoremodal",
+				"web_client/client/modules/library/components/restoreModal.js"
+			],
+			[
+				"constansts",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"dragsli",
+				"web_client/client/directives/dragSlide.js"
+			],
+			[
+				"filesystemservic",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"realtimefiles",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"thumbnail",
+				"web_client/client/directives/thumbnailGrid.js"
+			],
+			[
+				"libraryview",
+				"web_client/client/modules/library/components/libraryView.js"
+			],
+			[
+				"controlbar.s",
+				"web_client/client/modules/library/components/controlBar.js"
+			],
+			[
+				"controlbar",
+				"web_client/client/modules/library/templates/controlBar.html"
+			],
+			[
+				"constan",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"indexmodule.js",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"workspaceindexmodule",
+				"web_client/client/modules/workspace/index.module.js"
+			],
+			[
+				"projectcontext",
+				"web_client/client/modules/workspace/components/projectContext.js"
+			],
+			[
+				"project-cont",
+				"web_client/client/assets/less/components/project-context.less"
+			],
+			[
+				"uploadcard",
+				"web_client/client/modules/workspace/components/cards/uploadCard.js"
+			],
+			[
+				"dragslide",
+				"web_client/client/directives/dragSlide.js"
+			],
+			[
+				"scrollwi",
+				"web_client/client/directives/scrollwith.js"
+			],
+			[
+				"app.less",
+				"web_client/client/assets/less/app.less"
+			],
+			[
+				"projectcontex",
+				"web_client/client/modules/workspace/components/projectContext.js"
+			],
+			[
+				"workspacedashboard.html",
+				"web_client/client/modules/workspace/templates/workflowDashboard.html"
+			],
+			[
+				"libraryindex",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"socketservice.js",
+				"web_client/client/services/socketService.js"
+			],
+			[
+				"filesystemservice.js",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"realtime",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"ealtimefiles",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"rte.js",
+				"web_client/lab/rte.js"
+			],
+			[
+				"realtimfile",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"filesystemser",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"commenless",
+				"web_client/client/assets/less/components/comments.less"
+			],
+			[
+				"commen",
+				"web_client/client/components/comments.js"
+			],
+			[
+				"realtimefilesys",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"deleteitem",
+				"web_client/client/modules/library/components/deleteItem.js"
+			],
+			[
+				"thumblist.js",
+				"web_client/client/modules/library/components/thumbList.js"
+			],
+			[
+				"librarvyiew",
+				"web_client/client/modules/library/components/libraryView.js"
+			],
+			[
+				"context",
+				"web_client/client/modules/workspace/components/projectContext.js"
+			],
+			[
+				"workflwodashboard.html",
+				"web_client/client/modules/workspace/templates/workflowDashboard.html"
+			],
+			[
+				"workflowdashboard.js",
+				"web_client/client/modules/workspace/components/workflowDashboard.js"
+			],
+			[
+				"index.mdoule.js",
+				"web_client/client/modules/workspace/index.module.js"
+			],
+			[
+				"controlbar.js",
+				"web_client/client/modules/library/components/controlBar.js"
+			],
+			[
+				"libraryviewhtml",
+				"web_client/client/modules/library/templates/libraryView.html"
+			],
+			[
+				"thumbnailg",
+				"web_client/client/directives/thumbnailGrid.html"
+			],
+			[
+				"worflowdash",
+				"web_client/client/modules/workspace/templates/workflowDashboard.html"
+			],
+			[
+				"header.js",
+				"web_client/client/components/header.js"
+			],
+			[
+				"workspacelist.html",
+				"web_client/client/modules/workspace/templates/workspaceList.html"
+			],
+			[
+				"workspacelist",
+				"web_client/client/modules/workspace/components/workspaceList.js"
+			],
+			[
+				"projectdashboard.html",
+				"web_client/client/components/templates/projectDashboard.html"
+			],
+			[
+				"projecdash",
+				"web_client/client/components/projectDashboard.js"
+			],
+			[
+				"workflodashboard.html",
+				"web_client/client/modules/workspace/templates/workflowDashboard.html"
+			],
+			[
+				"workflowdashbord",
+				"web_client/client/modules/workspace/components/workflowDashboard.js"
+			],
+			[
+				"dashboard",
+				"web_client/client/components/projectDashboard.js"
+			],
+			[
+				"usercre",
+				"web_client/client/services/userCredentialManager.js"
+			],
+			[
+				"realtimefil",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"viewworkspacesegm",
+				"web_client/client/modules/workspace/controllers/viewWorkspaceSegmentController.js"
+			],
+			[
+				"labelratings",
+				"web_client/client/modules/workspace/components/labelRatings.js"
+			],
+			[
+				"labelratings.js",
+				"web_client/client/modules/workspace/components/labelRatings.js"
+			],
+			[
+				"verifyor",
+				"web_client/client/modules/users/components/verifyOrganization.js"
+			],
+			[
+				"uploadfilescon",
+				"web_client/client/modules/uploads/controllers/uploadFilesController.js"
+			],
+			[
+				"addpeople",
+				"web_client/client/modules/settings/components/addPeople.js"
+			],
+			[
+				"libraryindex.",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"createfolder",
+				"web_client/client/modules/library/components/createFolder.js"
+			],
+			[
+				"addfolder",
+				"web_client/client/modules/library/components/addFolder.js"
+			],
+			[
+				"libraryindex.module",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"realtimefile",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"contsan",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"librarview",
+				"web_client/client/modules/library/components/libraryView.js"
+			],
+			[
+				"treeview.js",
+				"web_client/client/modules/library/components/treeView.js"
+			],
+			[
+				"consta",
+				"web_client/client/modules/library/constants.js"
+			],
+			[
+				"dropdown.js",
+				"web_client/client/components/dropDown.js"
+			],
+			[
+				"dropdown",
+				"web_client/client/components/dropDown.js"
+			],
+			[
+				"header.less",
+				"web_client/client/assets/less/header.less"
+			],
+			[
+				"dropdownles",
+				"web_client/client/assets/less/dropdown.less"
+			],
+			[
+				"filesystem",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"fielsystemsers",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"createproj",
+				"web_client/client/modules/library/components/createProject.js"
+			],
+			[
+				"libraryview.l",
+				"web_client/client/modules/library/templates/libraryView.html"
+			],
+			[
+				"library/",
+				"web_client/client/modules/library/index.module.js"
+			],
+			[
+				"control",
+				"web_client/client/modules/library/components/controlBar.js"
+			],
+			[
+				"controlbar.less",
+				"web_client/client/assets/less/components/control-bar.less"
+			],
+			[
+				"controlbarl",
+				"web_client/client/modules/library/templates/controlBar.html"
+			],
+			[
+				"real",
+				"web_client/client/services/realtimefilesystem.js"
+			],
+			[
+				"projectdahs",
+				"web_client/client/components/templates/projectDashboard.html"
+			],
+			[
+				"projectdash",
+				"web_client/client/components/projectDashboard.js"
+			],
+			[
+				"scroll",
+				"web_client/client/directives/scrollwith.js"
+			],
+			[
+				"login",
+				"web_client/client/modules/users/components/login-view.js"
+			],
+			[
+				"filesystems",
+				"web_client/client/modules/library/services/fileSystemService.js"
+			],
+			[
+				"librarvyew",
+				"web_client/client/modules/library/templates/libraryView.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "seven",
+		"selected_items":
+		[
+			[
+				"seven",
+				"~/Freelance/7bridges/seven_bridges/seven.sublime-project"
+			],
+			[
+				"",
+				"~/repos/soho/soho.sublime-project"
+			],
+			[
+				"soho",
+				"~/repos/soho/soho.sublime-project"
+			],
+			[
+				"gfx",
+				"~/Freelance/gfx-symphony-shop/symphony.sublime-project"
+			],
+			[
+				"7b",
+				"~/Freelance/7bridges/seven_bridges/gui/7bridges.sublime-workspace"
+			],
+			[
+				"7br",
+				"~/Freelance/7bridges/seven_bridges/gui/7bridges.sublime-workspace"
+			],
+			[
+				"7bri",
+				"~/Freelance/7bridges/seven_bridges/seven.sublime-project"
+			],
+			[
+				"seve",
+				"~/Freelance/7bridges/seven_bridges/seven.sublime-project"
+			],
+			[
+				"7",
+				"~/Freelance/7bridges/seven_bridges/seven.sublime-project"
+			],
+			[
+				"sevent",
+				"~/Freelance/7bridges/seven_bridges/seven.sublime-project"
+			],
+			[
+				"winnow",
+				"~/repos/winnow/winnow.sublime-project"
+			],
+			[
+				"sy",
+				"~/Freelance/gfx-symphony-shop/symphony.sublime-project"
+			],
+			[
+				"three",
+				"~/epubby/threepub.sublime-project"
+			],
+			[
+				"thre",
+				"~/epubby/threepub.sublime-project"
+			],
+			[
+				"epub",
+				"~/epubby/threepub.sublime-project"
+			],
+			[
+				"se",
+				"~/Freelance/7bridges/seven_bridges/gui/7bridges.sublime-workspace"
+			],
+			[
+				"nsr",
+				"~/nsr/nsr.sublime-project"
+			],
+			[
+				"imt-gui",
+				"~/imt/robot4/imt-gui/app.sublime-project"
+			],
+			[
+				"globaledit-web",
+				"~/globaledit-web/app.sublime-project"
+			],
+			[
+				"imt",
+				"~/imt/robot4/imt-gui/app.sublime-project"
+			],
+			[
+				"imt-",
+				"~/imt-gui/app.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
